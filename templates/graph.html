@@ -6,8 +6,9 @@
   </head>
   <body>
     <div class=page>
-      <h1>Project in progress</h1>
-      {{ div | safe }}
+      <h1>Generated graph for {{ticker}}</h1>
+      <h2><a href="{{ url_for('index') }}">Back</a></h2>
+      {{ div | safe }}      
     </div>
   </body>
 </html>
