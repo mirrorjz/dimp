@@ -1,13 +1,9 @@
-# Flask on Heroku
+# Project with github
 
-This project is intended to help you tie together some important concepts and
-technologies from the 12-day course, including Git, Flask, JSON, Pandas,
-Requests, Heroku, and Bokeh for visualization.
+This project produces an interactive website that takes the input of the user and 
+produce the stock's price in the past year. Data is downloaded from Quandle WIKI API.
 
-The repository contains a basic template for a Flask configuration that will
-work on Heroku.
-
-A [finished example](https://lemurian.herokuapp.com) that demonstrates some basic functionality.
+A [finished example](https://jingdimp.herokuapp.com) that demonstrates some basic functionality.
 
 ## Step 1: Setup and deploy
 - Git clone the existing template repository.
